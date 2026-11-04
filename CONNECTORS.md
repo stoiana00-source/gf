@@ -1,4 +1,4 @@
-<!-- Modified from anthropics/knowledge-work-plugins (design/CONNECTORS.md): this plugin ships no .mcp.json, so the text about pre-configured servers was changed. -->
+<!-- Modified from anthropics/knowledge-work-plugins (design/CONNECTORS.md): this plugin ships no .mcp.json, so the text about pre-configured servers was changed, and the SEO rows (Search console, Web analytics, SEO tool) were added. -->
 
 # Connectors
 
@@ -18,3 +18,6 @@ Plugins are **tool-agnostic** — they describe workflows in terms of categories
 | Project tracker | `~~project tracker` | Linear, Asana, Atlassian (Jira/Confluence) | Shortcut, ClickUp |
 | User feedback | `~~user feedback` | Intercom | Productboard, Canny, UserVoice, Dovetail |
 | Product analytics | `~~product analytics` | — | Amplitude, Mixpanel, Heap, FullStory |
+| Search console | `~~search console` | Google Search Console | Bing Webmaster Tools |
+| Web analytics | `~~web analytics` | Google Analytics | Plausible, Matomo, Adobe Analytics |
+| SEO tool | `~~SEO tool` | — | Ahrefs, Semrush, Moz |

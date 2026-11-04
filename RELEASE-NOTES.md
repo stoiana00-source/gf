@@ -1,5 +1,10 @@
 # Release notes
 
+## 0.3.0
+
+- Add 5 SEO skills: seo-audit, keyword-research, meta-tags, schema-markup, seo-content.
+- Add Search console, Web analytics and SEO tool connector categories to `CONNECTORS.md`.
+
 ## 0.2.0
 
 - Add 7 design skills from anthropics/knowledge-work-plugins (`design/`): accessibility-review,

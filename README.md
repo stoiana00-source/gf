@@ -1,8 +1,8 @@
 # designer-pro-and-seo
 
-A Claude Code plugin with design skills: accessibility audits, design critique,
-developer handoff specs, design-system work, user research planning, research
-synthesis and UX copy.
+A Claude Code plugin with design and SEO skills: accessibility audits, design
+critique, developer handoff specs, design-system work, user research, UX copy,
+SEO audits, keyword research, meta tags, structured data and search content.
 
 ## Install
 
@@ -11,7 +11,7 @@ synthesis and UX copy.
 /plugin install designer-pro-and-seo@designer-pro-and-seo
 ```
 
-## Skills
+## Design skills
 
 | Skill | Use it to |
 |---|---|
@@ -23,8 +23,18 @@ synthesis and UX copy.
 | `research-synthesis` | Turn transcripts, surveys and tickets into themes and recommendations |
 | `ux-copy` | Write or review microcopy, error messages, empty states and CTAs |
 
+## SEO skills
+
+| Skill | Use it to |
+|---|---|
+| `seo-audit` | Audit crawling, indexing, on-page tags, links, Core Web Vitals and mobile |
+| `keyword-research` | Find keywords, classify intent, cluster them and map each to a page |
+| `meta-tags` | Write title tags, meta descriptions and Open Graph / Twitter tags |
+| `schema-markup` | Write or fix JSON-LD structured data for rich results |
+| `seo-content` | Brief new pages or optimize existing ones against what ranks |
+
 Each skill works from a description, screenshot or file. Skills get more out of
-connected tools (a design tool such as Figma, a project tracker, a knowledge base);
+connected tools (a design tool such as Figma, a project tracker, Search Console, an SEO tool);
 see [CONNECTORS.md](CONNECTORS.md). The plugin itself installs no MCP servers.
 
 ## Layout
@@ -35,6 +45,6 @@ see [CONNECTORS.md](CONNECTORS.md). The plugin itself installs no MCP servers.
 
 ## License
 
-Apache License 2.0. The skills come from
+Apache License 2.0. The design skills come from
 [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins);
-see [NOTICE](NOTICE).
+see [NOTICE](NOTICE). The SEO skills are original to this repo.

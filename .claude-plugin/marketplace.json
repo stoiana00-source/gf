@@ -8,8 +8,8 @@
     {
       "name": "designer-pro-and-seo",
       "source": "./",
-      "description": "Design skills for Claude Code: accessibility audits, design critique, developer handoff, design systems, user research, research synthesis and UX copy.",
-      "version": "0.2.0"
+      "description": "Design and SEO skills for Claude Code: accessibility audits, design critique, developer handoff, design systems, user research, UX copy, SEO audits, keyword research, meta tags, schema markup and SEO content.",
+      "version": "0.3.0"
     }
   ]
 }

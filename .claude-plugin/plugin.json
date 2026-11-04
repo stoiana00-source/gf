@@ -1,7 +1,7 @@
 {
   "name": "designer-pro-and-seo",
-  "version": "0.2.0",
-  "description": "Design skills for Claude Code: accessibility audits, design critique, developer handoff, design systems, user research, research synthesis and UX copy.",
+  "version": "0.3.0",
+  "description": "Design and SEO skills for Claude Code: accessibility audits, design critique, developer handoff, design systems, user research, UX copy, SEO audits, keyword research, meta tags, schema markup and SEO content.",
   "author": {
     "name": "stoiana00-source",
     "url": "https://github.com/stoiana00-source"
@@ -16,6 +16,8 @@
     "design-system",
     "user-research",
     "ux-copy",
-    "seo"
+    "seo",
+    "keyword-research",
+    "schema-markup"
   ]
 }
