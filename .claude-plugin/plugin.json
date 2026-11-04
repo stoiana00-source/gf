@@ -1,13 +1,23 @@
 {
   "name": "designer-pro-and-seo",
-  "version": "0.1.0",
-  "description": "Design and SEO skills for Claude Code.",
+  "version": "0.4.0",
+  "description": "Design and SEO skills for Claude Code — 12 skills: 7 Stable · 11 Core, 1 Lite, 0 routing. Accessibility audits, design critique, developer handoff, design systems, user research, UX copy, SEO audits, keyword research, meta tags, schema markup and SEO content.",
   "author": {
     "name": "stoiana00-source",
     "url": "https://github.com/stoiana00-source"
   },
   "homepage": "https://github.com/stoiana00-source/gf",
   "repository": "https://github.com/stoiana00-source/gf",
-  "license": "MIT",
-  "keywords": ["design", "seo", "skills"]
+  "license": "Apache-2.0",
+  "keywords": [
+    "design",
+    "accessibility",
+    "ux",
+    "design-system",
+    "user-research",
+    "ux-copy",
+    "seo",
+    "keyword-research",
+    "schema-markup"
+  ]
 }
