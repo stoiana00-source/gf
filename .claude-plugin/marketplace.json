@@ -1,0 +1,15 @@
+{
+  "name": "designer-pro-and-seo",
+  "owner": {
+    "name": "stoiana00-source",
+    "url": "https://github.com/stoiana00-source"
+  },
+  "plugins": [
+    {
+      "name": "designer-pro-and-seo",
+      "source": "./",
+      "description": "Design and SEO skills for Claude Code.",
+      "version": "0.1.0"
+    }
+  ]
+}

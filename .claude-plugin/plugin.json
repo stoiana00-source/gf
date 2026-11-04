@@ -1,0 +1,13 @@
+{
+  "name": "designer-pro-and-seo",
+  "version": "0.1.0",
+  "description": "Design and SEO skills for Claude Code.",
+  "author": {
+    "name": "stoiana00-source",
+    "url": "https://github.com/stoiana00-source"
+  },
+  "homepage": "https://github.com/stoiana00-source/gf",
+  "repository": "https://github.com/stoiana00-source/gf",
+  "license": "MIT",
+  "keywords": ["design", "seo", "skills"]
+}
