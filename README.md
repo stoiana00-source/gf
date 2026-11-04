@@ -11,6 +11,9 @@ SEO audits, keyword research, meta tags, structured data and search content.
 /plugin install designer-pro-and-seo@designer-pro-and-seo
 ```
 
+**12 skills: 7 Stable · 11 Core, 1 Lite, 0 routing.** Tiers and status are defined in
+[SHIPPING.md](SHIPPING.md): the design skills are Stable, the SEO skills are Beta.
+
 ## Design skills
 
 | Skill | Use it to |
@@ -41,6 +44,8 @@ see [CONNECTORS.md](CONNECTORS.md). The plugin itself installs no MCP servers.
 
 - `.claude-plugin/`: plugin and marketplace manifests (see its README)
 - `skills/`: one folder per skill, each with a `SKILL.md`
+- `SHIPPING.md`: each skill's tier and status, and the release checklist
+- `scripts/verify_release.py`: fails if versions, release notes, skills or counts drift
 - `RELEASE-NOTES.md`: changes per version
 
 ## License

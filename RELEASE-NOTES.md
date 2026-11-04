@@ -1,5 +1,11 @@
 # Release notes
 
+## 0.4.0
+
+- Add `SHIPPING.md`: every skill gets a tier (Core / Lite / routing) and a status (Stable / Beta).
+- Add `scripts/verify_release.py`, run in CI by `.github/workflows/verify-release.yml`.
+- Manifest descriptions and `README.md` now state the skill counts.
+
 ## 0.3.0
 
 - Add 5 SEO skills: seo-audit, keyword-research, meta-tags, schema-markup, seo-content.

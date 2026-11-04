@@ -19,6 +19,12 @@ Install from Claude Code:
 
 - `version` must match in **both** files, and `RELEASE-NOTES.md` needs an entry for it.
 - The description's skill counts (Stable / Core / Lite / routing) must match
-  `SHIPPING.md` and `README.md`.
+  `SHIPPING.md` and `README.md`. `SHIPPING.md` defines the tiers and is the source of truth.
 
-`scripts/verify_release.py` fails the release if any of these drift.
+`scripts/verify_release.py` fails the release if any of these drift. Run it before tagging:
+
+```text
+python3 scripts/verify_release.py
+```
+
+CI runs it on every push and pull request (`.github/workflows/verify-release.yml`).
