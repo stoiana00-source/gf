@@ -1,5 +1,10 @@
 # Release notes
 
+## 0.4.1
+
+- Add the plugin icon: `.claude-plugin/icon.png` (1024×1024), drawn from `.claude-plugin/icon.svg`.
+- Add a marketplace description to `marketplace.json`.
+
 ## 0.4.0
 
 - Add `SHIPPING.md`: every skill gets a tier (Core / Lite / routing) and a status (Stable / Beta).
