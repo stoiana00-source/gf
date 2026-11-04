@@ -1,11 +1,13 @@
 # .claude-plugin/
 
-The two manifests Claude Code reads to install this repo as a plugin. This folder is
+The manifests and icon Claude Code reads to install this repo as a plugin. This folder is
 metadata only. The skills, agents and scripts it registers live at the repo root.
 
 | File | Read by | Purpose |
 |---|---|---|
 | `plugin.json` | Claude Code, on load | Plugin identity: name, **version**, description, author, license, homepage, keywords |
+| `icon.png` | Claude Code and the plugin directory | 1024×1024 plugin icon, referenced by `icon` in `plugin.json` |
+| `icon.svg` | People | Source for `icon.png`; edit this, then re-export the PNG at 1024×1024 |
 | `marketplace.json` | `/plugin marketplace add stoiana00-source/gf` | Makes this repo its own marketplace, listing the one plugin it offers and its version |
 
 Install from Claude Code:
