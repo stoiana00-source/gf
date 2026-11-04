@@ -1,0 +1,15 @@
+designer-pro-and-seo
+
+This repository includes material from anthropics/knowledge-work-plugins
+(https://github.com/anthropics/knowledge-work-plugins), commit
+d900840716eb262e1feb17c6f4406c9ce0e06bcf, licensed under the Apache License,
+Version 2.0 (see LICENSE):
+
+- skills/accessibility-review/SKILL.md
+- skills/design-critique/SKILL.md
+- skills/design-handoff/SKILL.md
+- skills/design-system/SKILL.md
+- skills/research-synthesis/SKILL.md
+- skills/user-research/SKILL.md
+- skills/ux-copy/SKILL.md   (all unmodified, from design/skills/)
+- CONNECTORS.md             (modified, from design/CONNECTORS.md)
