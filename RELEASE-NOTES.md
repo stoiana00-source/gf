@@ -1,5 +1,12 @@
 # Release notes
 
+## 0.5.0
+
+- Add 67 visual-style skills (`style-*`, tier Lite, status Beta) from bergside/awesome-design-skills (MIT),
+  each with a `SKILL.md` and a `DESIGN.md`.
+- Ten brand-named styles were renamed: ant → style-structured, claude → style-research-journal, codex → style-blank-canvas, lingo → style-playful-rounded, material → style-layered, pacman → style-eight-bit, roku → style-purple-dashboard, sega → style-arcade, shadcn → style-utility-mono, tetris → style-blocks.
+- Broaden the Lite tier definition in `SHIPPING.md` to cover style skills.
+
 ## 0.4.1
 
 - Add the plugin icon: `.claude-plugin/icon.png` (1024×1024), drawn from `.claude-plugin/icon.svg`.
